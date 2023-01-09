@@ -322,7 +322,7 @@ input::-moz-placeholder,
 textarea::-moz-placeholder {
   opacity: 1;
   /* 1 */
-  color: #7a7d83;
+  color: #1c5bd7;
   /* 2 */
 }
 
@@ -330,7 +330,7 @@ input::placeholder,
 textarea::placeholder {
   opacity: 1;
   /* 1 */
-  color: #424549;
+  color: #115dbf;
   /* 2 */
 }
 
